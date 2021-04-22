@@ -1,2 +1,1 @@
-# codewars-
-CodeWars - Problems
+# Imporving JavaScript with CodeWars Tasks
